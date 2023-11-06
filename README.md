@@ -1,19 +1,18 @@
 
 # Gabriel Santos
 
-Futuro Dev Front-End, interessado em aprender mais sobre HTML, CSS, JavaScrip, Angular, React.
+Futuro Dev Front-End, interessado em aprender mais sobre HTML, CSS, JavaScript e React. 
 
 
 
 ## 🚀 Sobre mim
-Sou estudante do curso de Análise e Desenvolvimento de Sistemas pela Universidade do Paraná (UNOPAR). Atualmente tenho mais contato com a linguagem Python, a qual demonstra ser muito interessante de se trabalhar. Além disso gosto muito da parte visual (front-end), buscando entender o básico para UI/UX. 
-
+Sou um estudante de análise e desenvolvimento de sistemas apaixonado por resolver problemas por meio da programação.
 
 
 ## 🛠 Habilidades
-Aprendendo sobre Javascript, Java e Node.js...
+Estou focado em aprender sobre Java Script, Java, Nodejs, HTML e CSS. 
 
-Conhecimento básico sobre Figma. 
+Possuo conhecimento básico em figma, na criação de artes para redes sociais.  
 
 
 ## 🔗 Links
